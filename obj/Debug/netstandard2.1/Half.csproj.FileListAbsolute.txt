@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\bin\Debug\netstandard2.1\Half.deps.json
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\bin\Debug\netstandard2.1\Half.dll
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\bin\Debug\netstandard2.1\Half.pdb
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\obj\Debug\netstandard2.1\Half.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\obj\Debug\netstandard2.1\Half.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\obj\Debug\netstandard2.1\Half.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\obj\Debug\netstandard2.1\Half.dll
+C:\Users\stefa\OneDrive\Programming\GitHub\Half\obj\Debug\netstandard2.1\Half.pdb
